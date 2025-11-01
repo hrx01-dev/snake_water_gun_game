@@ -1,0 +1,5 @@
+time: Sat Nov  1 16:10:27 2025
+pygame_init: True
+display_info: {'current_w': 600, 'current_h': 400}
+wm_info: {'window': '788312', 'hdc': '83955287', 'hinstance': '140694856794112'}
+screen_size: (600, 400)
